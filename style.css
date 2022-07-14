@@ -1,0 +1,48 @@
+body{
+    background-image: url(imges/pro.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+h1{
+    color: wheat;
+    padding-right: 0%;
+    margin-top: 0%;
+    padding-bottom: 0%;
+}
+header {
+    display:inline-flex;
+    text-align: justify;
+    padding-left: 70%;
+    padding-right: 0%;
+    background-color:olive ;
+    width: 100%;
+    
+}
+ul li{
+    color: aliceblue;
+}
+.bar li{
+    display:inline-flex;
+    color: whitesmoke;
+}
+.lo {
+    padding-right: 20px;
+    
+}
+.ga {
+    padding-right: 20px;
+    
+}
+
+a:hover{
+    color: brown;
+    
+}
+a{
+    text-decoration: none;
+    font-size: 18px;
+    
+}
+
